@@ -1,4 +1,4 @@
-# html-starter
+# draw
 A starter package for basic HTML projects
 
 ```sh
